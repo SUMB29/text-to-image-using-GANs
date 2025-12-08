@@ -10,7 +10,7 @@ This implementation is a PyTorch-based version of [Generative Adversarial Text-t
 - torch==2.0.0
 
 ## Dataset
- Hugging face, Kaggle
+ https://www.kaggle.com/code/msripooja/text2image-gan
 
 
 ## References
