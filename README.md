@@ -9,7 +9,7 @@ This implementation is a PyTorch-based version of [Generative Adversarial Text-t
 - Pillow==10.0.0
 - torch==2.0.0
 
-## Dataset
+## Dataset ( 'flowers.hdf5' )
  https://www.kaggle.com/code/msripooja/text2image-gan
 
 
